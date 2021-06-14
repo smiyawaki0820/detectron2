@@ -1,0 +1,7 @@
+# dirs
+outputs
+datasets
+
+# files
+requirements.txt
+.python-version
